@@ -65,28 +65,6 @@
             "sale" : true,
             "prevPrice" : "16 199₴",
             "price" : "13 499₴"
-        },
-        {
-            "newItem" : false,
-            "hotItem" : false,
-            "category" : "ПРАЛЬНІ МАШИНИ",
-            "photo" : "img/6.png",
-            "name" : "Пральна машина вузька BEKO WUE 6626 XBCW",
-            "comingSoon" : true,
-            "sale" : false,
-            "prevPrice" : "",
-            "price" : ""
-        },
-        {
-            "newItem" : false,
-            "hotItem" : false,
-            "category" : "ПРАЛЬНІ МАШИНИ",
-            "photo" : "img/6.png",
-            "name" : "Пральна машина вузька AEG L6SME47SU",
-            "comingSoon" : false,
-            "sale" : false,
-            "prevPrice" : "",
-            "price" : "14 999₴"
         }
     ]
 }
