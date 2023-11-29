@@ -5,7 +5,7 @@
             "hotItem" : false,
             "category" : "Настільні ігри",
             "photo" : "img/1.png",
-            "name" : "Настільна гра патруль",
+            "name" : "Настільна гра Градус",
             "comingSoon" : false,
             "sale" : true,
             "prevPrice" : "600₴",
@@ -16,7 +16,7 @@
             "hotItem" : false,
             "category" : "Настільні ігри",
             "photo" : "img/2.png",
-            "name" : "Настільна гра Градус",
+            "name" : "Гра Arial Джанга",
             "comingSoon" : false,
             "sale" : false,
             "prevPrice" : "",
@@ -27,7 +27,7 @@
             "hotItem" : true,
             "category" : "Настільні ігри",
             "photo" : "img/3.png",
-            "name" : "Гра Arial Джанга",
+            "name" : "Настільна гра ZOO",
             "comingSoon" : false,
             "sale" : true,
             "prevPrice" : "400₴",
@@ -38,18 +38,18 @@
             "hotItem" : false,
             "category" : "Настільні ігри",
             "photo" : "img/4.png",
-            "name" : "Пральна машина з сушкою WHIRLPOOL FFWDB 864349 BV UA",
+            "name" : "Настільна гра UNO+",
             "comingSoon" : true,
             "sale" : false,
             "prevPrice" : "",
-            "price" : ""
+            "price" : "230"
         },
         {
             "newItem" : true,
             "hotItem" : false,
             "category" : "Настільні ігри",
             "photo" : "img/5.png",
-            "name" : "Настільна гра ZOO",
+            "name" : "Настільна гра Polyssimo",
             "comingSoon" : false,
             "sale" : false,
             "prevPrice" : "",
@@ -60,11 +60,11 @@
             "hotItem" : true,
             "category" : "Настільні ігри",
             "photo" : "img/6.png",
-            "name" : "Пральна машина вузька SAMSUNG WW60A3100BE/UA",
+            "name" : "Настільна гра патруль",
             "comingSoon" : false,
             "sale" : true,
-            "prevPrice" : "16 199₴",
-            "price" : "13 499₴"
+            "prevPrice" : "300₴",
+            "price" : "130₴"
         }
     ]
 }
