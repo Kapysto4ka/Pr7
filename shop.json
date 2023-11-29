@@ -3,7 +3,7 @@
         {
             "newItem" : true,
             "hotItem" : false,
-            "category" : "Настільні ігри",
+            "category" : "ПРАЛЬНІ МАШИНИ",
             "photo" : "img/1.png",
             "name" : "Пральна машина повногабаритна SAMSUNG WW11B1944AGBUA",
             "comingSoon" : false,
@@ -14,7 +14,7 @@
         {
             "newItem" : false,
             "hotItem" : false,
-            "category" : "Настільні ігри",
+            "category" : "ПРАЛЬНІ МАШИНИ",
             "photo" : "img/2.png",
             "name" : "Пральна машина вузька WHIRLPOOL WRBSB 6228 B UA",
             "comingSoon" : false,
@@ -25,7 +25,7 @@
         {
             "newItem" : false,
             "hotItem" : true,
-            "category" : "Настільні ігри",
+            "category" : "ПРАЛЬНІ МАШИНИ",
             "photo" : "img/3.png",
             "name" : "Пральна машина вузька AEG L6SE26SUE",
             "comingSoon" : false,
@@ -36,7 +36,7 @@
         {
             "newItem" : false,
             "hotItem" : false,
-            "category" : "Настільні ігри",
+            "category" : "ПРАЛЬНІ МАШИНИ",
             "photo" : "img/4.png",
             "name" : "Пральна машина з сушкою WHIRLPOOL FFWDB 864349 BV UA",
             "comingSoon" : true,
@@ -47,7 +47,7 @@
         {
             "newItem" : true,
             "hotItem" : false,
-            "category" : "Настільні ігри",
+            "category" : "ПРАЛЬНІ МАШИНИ",
             "photo" : "img/5.png",
             "name" : "Пральна машина вузька SAMSUNG WW62J42E0HX/UA",
             "comingSoon" : false,
@@ -58,7 +58,7 @@
         {
             "newItem" : false,
             "hotItem" : true,
-            "category" : "Настільні ігри",
+            "category" : "ПРАЛЬНІ МАШИНИ",
             "photo" : "img/6.png",
             "name" : "Пральна машина вузька SAMSUNG WW60A3100BE/UA",
             "comingSoon" : false,
@@ -69,8 +69,8 @@
         {
             "newItem" : false,
             "hotItem" : false,
-            "category" : "Настільні ігри",
-            "photo" : "img/6.png",
+            "category" : "ПРАЛЬНІ МАШИНИ",
+            "photo" : "img/1.png",
             "name" : "Пральна машина вузька BEKO WUE 6626 XBCW",
             "comingSoon" : true,
             "sale" : false,
@@ -80,8 +80,8 @@
         {
             "newItem" : false,
             "hotItem" : false,
-            "category" : "Настільні ігри",
-            "photo" : "img/6.png",
+            "category" : "ПРАЛЬНІ МАШИНИ",
+            "photo" : "img/1.png",
             "name" : "Пральна машина вузька AEG L6SME47SU",
             "comingSoon" : false,
             "sale" : false,
