@@ -178,7 +178,7 @@ body {
     width: 150px;
     height: 40px;
     margin-top: 20px;
-    margin-bottom: 35px;
+    margin-bottom: 20px;
     transition: background-color 0.3s ease;
 }
 .buy:hover{
