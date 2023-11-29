@@ -3,68 +3,90 @@
         {
             "newItem" : true,
             "hotItem" : false,
-            "category" : "Настільні ігри",
-            "photo" : "img/1.png",
-            "name" : "Настільна гра Bombat Game ",
+            "category" : "ПРАЛЬНІ МАШИНИ",
+            "photo" : "img/306826648.png",
+            "name" : "Пральна машина повногабаритна SAMSUNG WW11B1944AGBUA",
             "comingSoon" : false,
             "sale" : true,
-            "prevPrice" : "695₴",
-            "price" : "650₴"
+            "prevPrice" : "37 999₴",
+            "price" : "34 499₴"
         },
         {
             "newItem" : false,
             "hotItem" : false,
-            "category" : "Настільні ігри",
-            "photo" : "img/2.png",
-            "name" : "Настільна гра Strateg Джанга 54 бруска",
+            "category" : "ПРАЛЬНІ МАШИНИ",
+            "photo" : "img/286602036.png",
+            "name" : "Пральна машина вузька WHIRLPOOL WRBSB 6228 B UA",
             "comingSoon" : false,
             "sale" : false,
             "prevPrice" : "",
-            "price" : "377₴"
+            "price" : "12 555₴"
         },
         {
             "newItem" : false,
             "hotItem" : true,
-            "category" : "Настільні ігри",
-            "photo" : "img/3.png",
-            "name" : "Настільна гра Bombat Game Зоорегата",
+            "category" : "ПРАЛЬНІ МАШИНИ",
+            "photo" : "img/372283920.png",
+            "name" : "Пральна машина вузька AEG L6SE26SUE",
             "comingSoon" : false,
             "sale" : true,
-            "prevPrice" : "400₴",
-            "price" : "250₴"
+            "prevPrice" : "15 999₴",
+            "price" : "11 499₴"
         },
         {
             "newItem" : false,
             "hotItem" : false,
-            "category" : "Настільні ігри",
-            "photo" : "img/4.png",
-            "name" : "Карткова гра Uno Делюкс",
+            "category" : "ПРАЛЬНІ МАШИНИ",
+            "photo" : "img/362143317.png",
+            "name" : "Пральна машина з сушкою WHIRLPOOL FFWDB 864349 BV UA",
             "comingSoon" : true,
             "sale" : false,
             "prevPrice" : "",
-            "price" : "473"
+            "price" : ""
         },
         {
             "newItem" : true,
             "hotItem" : false,
-            "category" : "Настільні ігри",
-            "photo" : "img/5.png",
-            "name" : "Настільна гра Djeco Поліссімо",
+            "category" : "ПРАЛЬНІ МАШИНИ",
+            "photo" : "img/275807205.png",
+            "name" : "Пральна машина вузька SAMSUNG WW62J42E0HX/UA",
             "comingSoon" : false,
             "sale" : false,
             "prevPrice" : "",
-            "price" : "699₴"
+            "price" : "18 999₴"
         },
         {
             "newItem" : false,
             "hotItem" : true,
-            "category" : "Настільні ігри",
-            "photo" : "img/6.png",
-            "name" : "Настільна гра Spin Master Доміно Щенячий патруль у жерстяній коробці",
+            "category" : "ПРАЛЬНІ МАШИНИ",
+            "photo" : "img/366870465.png",
+            "name" : "Пральна машина вузька SAMSUNG WW60A3100BE/UA",
             "comingSoon" : false,
             "sale" : true,
-            "prevPrice" : "500₴",
-            "price" : "429₴"
+            "prevPrice" : "16 199₴",
+            "price" : "13 499₴"
         },
+        {
+            "newItem" : false,
+            "hotItem" : false,
+            "category" : "ПРАЛЬНІ МАШИНИ",
+            "photo" : "img/371621067.png",
+            "name" : "Пральна машина вузька BEKO WUE 6626 XBCW",
+            "comingSoon" : true,
+            "sale" : false,
+            "prevPrice" : "",
+            "price" : ""
+        },
+        {
+            "newItem" : false,
+            "hotItem" : false,
+            "category" : "ПРАЛЬНІ МАШИНИ",
+            "photo" : "img/367255512.png",
+            "name" : "Пральна машина вузька AEG L6SME47SU",
+            "comingSoon" : false,
+            "sale" : false,
+            "prevPrice" : "",
+            "price" : "14 999₴"
+        }
     ]
 }
