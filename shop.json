@@ -26,67 +26,45 @@
             "newItem" : false,
             "hotItem" : true,
             "category" : "Настільні ігри",
-            "photo" : "img/1.png",
-            "name" : "Пральна машина вузька AEG L6SE26SUE",
+            "photo" : "img/3.png",
+            "name" : "Настільна гра Bombat Game Зоорегата",
             "comingSoon" : false,
             "sale" : true,
-            "prevPrice" : "15 999₴",
-            "price" : "11 499₴"
+            "prevPrice" : "400₴",
+            "price" : "250₴"
         },
         {
             "newItem" : false,
             "hotItem" : false,
             "category" : "Настільні ігри",
-            "photo" : "img/1.png",
-            "name" : "Пральна машина з сушкою WHIRLPOOL FFWDB 864349 BV UA",
+            "photo" : "img/4.png",
+            "name" : "Карткова гра Uno Делюкс",
             "comingSoon" : true,
             "sale" : false,
             "prevPrice" : "",
-            "price" : ""
+            "price" : "473"
         },
         {
             "newItem" : true,
             "hotItem" : false,
             "category" : "Настільні ігри",
-            "photo" : "img/1.png",
-            "name" : "Пральна машина вузька SAMSUNG WW62J42E0HX/UA",
+            "photo" : "img/5.png",
+            "name" : "Настільна гра Djeco Поліссімо",
             "comingSoon" : false,
             "sale" : false,
             "prevPrice" : "",
-            "price" : "18 999₴"
+            "price" : "699₴"
         },
         {
             "newItem" : false,
             "hotItem" : true,
             "category" : "Настільні ігри",
-            "photo" : "img/1.png",
-            "name" : "Пральна машина вузька SAMSUNG WW60A3100BE/UA",
+            "photo" : "img/6.png",
+            "name" : "Настільна гра Spin Master Доміно Щенячий патруль у жерстяній коробці",
             "comingSoon" : false,
             "sale" : true,
-            "prevPrice" : "16 199₴",
-            "price" : "13 499₴"
+            "prevPrice" : "500₴",
+            "price" : "429₴"
         },
-        {
-            "newItem" : false,
-            "hotItem" : false,
-            "category" : "Настільні ігри",
-            "photo" : "img/1.png",
-            "name" : "Пральна машина вузька BEKO WUE 6626 XBCW",
-            "comingSoon" : true,
-            "sale" : false,
-            "prevPrice" : "",
-            "price" : ""
-        },
-        {
-            "newItem" : false,
-            "hotItem" : false,
-            "category" : "Настільні ігри",
-            "photo" : "img/1.png",
-            "name" : "Пральна машина вузька AEG L6SME47SU",
-            "comingSoon" : false,
-            "sale" : false,
-            "prevPrice" : "",
-            "price" : "14 999₴"
-        }
     ]
 }
