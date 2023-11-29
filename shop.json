@@ -3,40 +3,40 @@
         {
             "newItem" : true,
             "hotItem" : false,
-            "category" : "ПРАЛЬНІ МАШИНИ",
+            "category" : "Настільні ігри",
             "photo" : "img/1.png",
-            "name" : "Пральна машина повногабаритна SAMSUNG WW11B1944AGBUA",
+            "name" : "Настільна гра патруль",
             "comingSoon" : false,
             "sale" : true,
-            "prevPrice" : "37 999₴",
-            "price" : "34 499₴"
+            "prevPrice" : "600₴",
+            "price" : "500₴"
         },
         {
             "newItem" : false,
             "hotItem" : false,
-            "category" : "ПРАЛЬНІ МАШИНИ",
+            "category" : "Настільні ігри",
             "photo" : "img/2.png",
-            "name" : "Пральна машина вузька WHIRLPOOL WRBSB 6228 B UA",
+            "name" : "Настільна гра Градус",
             "comingSoon" : false,
             "sale" : false,
             "prevPrice" : "",
-            "price" : "12 555₴"
+            "price" : "400₴"
         },
         {
             "newItem" : false,
             "hotItem" : true,
-            "category" : "ПРАЛЬНІ МАШИНИ",
+            "category" : "Настільні ігри",
             "photo" : "img/3.png",
-            "name" : "Пральна машина вузька AEG L6SE26SUE",
+            "name" : "Гра Arial Джанга",
             "comingSoon" : false,
             "sale" : true,
-            "prevPrice" : "15 999₴",
-            "price" : "11 499₴"
+            "prevPrice" : "400₴",
+            "price" : "350"
         },
         {
             "newItem" : false,
             "hotItem" : false,
-            "category" : "ПРАЛЬНІ МАШИНИ",
+            "category" : "Настільні ігри",
             "photo" : "img/4.png",
             "name" : "Пральна машина з сушкою WHIRLPOOL FFWDB 864349 BV UA",
             "comingSoon" : true,
@@ -47,18 +47,18 @@
         {
             "newItem" : true,
             "hotItem" : false,
-            "category" : "ПРАЛЬНІ МАШИНИ",
+            "category" : "Настільні ігри",
             "photo" : "img/5.png",
-            "name" : "Пральна машина вузька SAMSUNG WW62J42E0HX/UA",
+            "name" : "Настільна гра ZOO",
             "comingSoon" : false,
             "sale" : false,
             "prevPrice" : "",
-            "price" : "18 999₴"
+            "price" : "655₴"
         },
         {
             "newItem" : false,
             "hotItem" : true,
-            "category" : "ПРАЛЬНІ МАШИНИ",
+            "category" : "Настільні ігри",
             "photo" : "img/6.png",
             "name" : "Пральна машина вузька SAMSUNG WW60A3100BE/UA",
             "comingSoon" : false,
